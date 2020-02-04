@@ -1,6 +1,8 @@
 1. Ibragimov Dezir
 2. +998 90 962 52 88, lumencorp.net, d.ibragimov@lumencorp.net
-3. 
+3. My name is Dezir Ibragimov. I am a student of Tashkent University of Information Technologies. I am on the third stage. I went to RsSchool courses to gain experience in front-end development, as well as git teamwork. It seems to me that RsSchool is a great opportunity to learn something new.
+
+At the moment, I am a backend developer. I have experience in solo and in team. I specialize in developing telegram bots. Recently, I began to study javascript myself in order to learn how to do the front side of web applications in order to become a fullstack developer.
 4. 
     Middle Python Developer:
 
