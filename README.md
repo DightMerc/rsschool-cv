@@ -1,1 +1,1 @@
-https://github.com/DightMerc/rsschool-cv/blob/gh-pages/cv.md
+https://dightmerc.github.io/rsschool-cv/
